@@ -11,5 +11,7 @@ public class Hello {
         System.out.println("some msg");
 
         System.out.println("msg2");
+
+        System.out.println("msg3");
     }
 }
