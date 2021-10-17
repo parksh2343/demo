@@ -6,10 +6,15 @@ public class Hello {
 
 
         System.out.println("end program!");
-        
+
     }
 
     public void temp(){
         System.out.println("some msg");
+
+
+        
+
+
     }
 }
