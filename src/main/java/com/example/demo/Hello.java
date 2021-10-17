@@ -9,5 +9,7 @@ public class Hello {
 
     public void temp(){
         System.out.println("some msg");
+
+        System.out.println("msg2");
     }
 }
